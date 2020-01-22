@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChatingActivity">
+
+
+    <Button
+        android:id="@+id/btnSendMsg"
+        android:layout_width="109dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="285dp"
+        android:layout_marginTop="668dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="10dp"
+        android:text="kirim"
+        tools:visibility="visible"></Button>
+
+    <EditText
+        android:id="@+id/etMessage"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="665dp"
+        android:layout_marginEnd="150dp"
+        android:layout_marginBottom="7dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="type here"
+        tools:visibility="visible" />
+
+    <ListView
+        android:id="@+id/lvChating"
+        android:layout_width="match_parent"
+        android:layout_height="650dp">
+
+       </ListView>
+
+
+
+</RelativeLayout>

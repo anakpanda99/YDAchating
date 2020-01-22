@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727035953344",
+    "firebase_url": "https://chating-e44a4.firebaseio.com",
+    "project_id": "chating-e44a4",
+    "storage_bucket": "chating-e44a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727035953344:android:2cd2137af46d8887cf6d25",
+        "android_client_info": {
+          "package_name": "com.example.ydachating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727035953344-ju7cuotj7aop0upnse30aru6ekuagocr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ydachating",
+            "certificate_hash": "d86ee8eddac894177e6d79f872a94308e5b767fc"
+          }
+        },
+        {
+          "client_id": "727035953344-88iprv1se763athfm4sj9er2j5tm5etv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHquCfbv5VXGjnmK1bQ4H--84z07zs20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727035953344-88iprv1se763athfm4sj9er2j5tm5etv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
